@@ -1,0 +1,7 @@
+baseURL = "https://KevinRp.github.io/website_syna/"
+languageCode = "en-us"
+title = "Website syna"
+theme = "syna"
+publishDir = "docs"
+
+
